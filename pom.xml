@@ -15,5 +15,8 @@
         <module>bbcmall-ware</module>
         <module>bbcmall-product</module>
         <module>bbcmall-order</module>
+        <module>bbcmall-admin</module>
+        <module>renren-generator</module>
+        <module>bbcmall-common</module>
     </modules>
 </project>
